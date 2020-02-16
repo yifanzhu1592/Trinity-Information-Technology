@@ -1,2 +1,2 @@
 # Trinity-Information-Technology
-The programs I wrote in the course "Information Technology" at Trinity
+This repository contains programs I wrote in the course "Information Technology" at Trinity College Dublin
